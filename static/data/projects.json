@@ -1,0 +1,634 @@
+{
+	"projects": [
+		[
+			{
+				"title": "Icarus",
+				"image": "./static/img/icarus.png",
+				"description": "Drone Flight Management Application",
+				"tech": ["Vue.js", "Python", "JavaScript", "Vuetify"],
+				"gitlink": "https://github.com/SAR-Junior-Design",
+				"livelink": "http://icarusmap.com/",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A two-semester project in Junior Design, which focuses on the development of a product in a professional setting. For this project, a client from the Georgia Tech police department was approached with a proposal for a web application for the use of autonomous drones in search and rescue operations."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "Front-end development",
+								"body": "The UI for our web application is developed in JavaScript with Vue.js, and incorporates Vuetify.js."
+							}, {
+								"subheader": "Back-end development",
+								"body": "Both the application’s server and the server, which communicates with the drones, are written in Python."
+							}
+						]
+					},
+					{
+						"header": "Project Development",
+						"headerBody": [
+							{
+								"subheader": "Design Process",
+								"body": "In the first stage, the six members of this team researched the search and rescue process and identified how the use of autonomous drones could impact the field. From this information, we designed the web application, the architecture and communication, and a 3D printed drone. We also focused on customer discovery and research, developing user stories as well as some user testing in creating mock ups of our UI with necessary features."
+							},
+							{	"subheader": "Implementation",
+								"body": "In the second stage of our project’s development, we begun implementing our ideas in an Agile environment, hosting a live webpage. Over the course of the iterative sprints that spanned four months and with the changing needs of our client, our focus shifted from drone management in SAR operations to flight management on university campuses. With this goal in mind, we developed an application, where users can create missions, notifying the GTPD of flights, as well as allowing them to review flights for any risks or inconsistencies with FAA Guidelines."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "Sprint 1",
+										"link": "https://www.youtube.com/embed/t5Bb4S0qfPI?rel=0"
+									},{
+										"subheader": "Sprint 2",
+										"link": "https://www.youtube.com/embed/dzybkZ7A2G0?rel=0"
+									},{
+										"subheader": "Sprint 4",
+										"link": "https://www.youtube.com/embed/OE4kTd7bcrs?rel=0"
+									},{
+										"subheader": "Expo",
+										"link": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGaTechPD%2Fvideos%2F10156358799249579%2F&show_text=0&width=560"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group members include Antonia Deliyianni, Sam Crane, Kaan Goksal, Edwind Ladd Jones, Raymond Zhang, and Timothy Lee-O’Connor.",
+					"image": "./static/img/team.jpg"
+				}
+			},
+			{
+				"title": "BackStage",
+				"image": "./static/img/backstage.png",
+				"description": "Israeli Crowdfunding site",
+				"tech": ["HTML", "Materialize.css", "CSS", "JQuery","Node.js", "JavaScript", "Express.js"],
+				"gitlink": "https://github.com/orubin/backstage_server",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A Crowdfunding platform, offering a monthly funding model, as well as concentrating on communities by presenting local creators to local sponsors."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "The front-end is developed through Materialize.css, HTML, JavaScript, and CSS, while the server utilizes Node.js and Express.js."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "WIP",
+										"link": ""
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "Chune",
+				"image": "./static/img/chune.png",
+				"description": "Android Weather App utilizing AR",
+				"tech": ["Java", "Processing", "Android"],
+				"gitlink": "https://github.com/adeliyianni3/ChuneApp",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A three person, final project exploring digital signals, sound perception, and auditory interfaces in developing location-aware wearable technology. This app is an AR project from CS 4590, Computer Audio, focusing on the implementation process rather than research or design"
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "The C.H.U.N.E demo was created in Processing. The final app was coded using Android Studio, and the audio was altered with Audacity."
+							}
+						]
+					},
+					{
+						"header": "",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": ""
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "Vision Video",
+										"link": "https://www.youtube.com/embed/Pigb63z3QCs?rel=0"
+									},
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/L0gLYIwKk2c?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group members include Antonia Deliyianni, Jeff Hotnog, and Themiya Chandraratna.",
+					"image": ""
+				}
+			}
+		],
+		[
+			{
+				"title": "My Portfolio",
+				"image": "./static/img/portfolio.png",
+				"description": "Portfolio Website",
+				"tech": ["React.js", "JQuery", "JavaScript", "CSS", "HTML", "Materialize.css"],
+				"gitlink": "https://github.com/adeliyianni3/adeliyianni3.github.io",
+				"livelink": "https://adeliyianni3.github.io/",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "The website you are currently on is a simple React based website acting as my portfolio."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This website is built with React.js and Materialize.css and does Client-side rendering."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "You're currently on it!",
+										"link": ""
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "Class Data Portrait",
+				"image": "./static/img/classportrait.png",
+				"description": "Big Data Visualization",
+				"tech": ["Java","Processing"],
+				"gitlink": "https://github.com/adeliyianni3/ClassDataPortrait",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "An individual data project from LMC 2700, which visualizes the photos the class took and uploaded onto Flickr over the course of a week. Through the Flickr API, a class data portrait was designed, utilizing about 4,000 photos. Each circle represented a photo, where the circle’s outline is determined by the photo’s most “vibrant” color, the circle’s size is determined by the brightness of the photo, and the circle’s position by the photo’s time and date. The axes, which start at the center of the graph and radiates out, represent hours of the day, between 1 to 12, and the rings of the graph represent the days of the week starting with Sunday at the center and ending on Saturday. With all the circles plotted, lines are webbed through the points that share the same owner, creating the spider graph’s “star” based on the owner’s individual process in taking photos."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This project was written through Processing in Java and used Flickr’s API to access the class photos."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/4mHZbsuD9tw?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "Data Visualization",
+				"image": "./static/img/infovis.png",
+				"description": "Info Vis for Data Analytics",
+				"tech": ["D3.js", "HTML", "CSS"],
+				"gitlink": "https://github.com/adeliyianni3/CandyDataVis",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A two person three week project in CS 4460, Intro to Information Visualization. The data comes from a set of over a thousand survey responses."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This info visualization was developed through D3.js, incorporating interaction and multiple views for analytical exploration."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/0TiTr-GYf4M?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group members include Antonia Deliyianni and Mohammad Saqib.",
+					"image": ""
+				}
+			}
+		],
+		[
+			{
+				"title": "Game Boy Advance Game",
+				"image": "./static/img/gba.png",
+				"description": "VisualBoy Advance",
+				"tech": ["C", "Assembly"],
+				"gitlink": "https://github.com/adeliyianni3/GBAGame",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This project is a side scrolling brawler created for the Game Boy Advance as a final project in CS 2261, Media Device Architecture. The project was divided into five milestones, which focused on the hardware and software components used in game developing and design."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This game was written in C and Assembly to play through Visualboy Advance. Audio was altered with Audacity, and sprites sheets, menu screens, and background images were altered and created with Usenti."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/jFbMqIihzhU?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "Modeling and Animation",
+				"image": "./static/img/object.png",
+				"description": "Object Modeling and Animation",
+				"tech": ["Python", "Processing"],
+				"gitlink": "https://github.com/adeliyianni3/Model-Animation",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A small, individual class project in CS 3451, Computer Graphics, focusing on the use of matrices in object modeling, instantiation, and animation."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "Written through Processing in Python."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/ajJqaPgHCkY?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "Unity Game",
+				"image": "./static/img/cleanupcountdown.png",
+				"description": "Object Modeling and Texturing",
+				"tech": ["C#", "Unity", "Maya"],
+				"gitlink": "https://github.com/adeliyianni3/CleanupCountdown",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A 3 person group project for LMC 2730, Construct-Moving Image, focusing on the use of modeling, texturing, and programming in order to develop a 3D game."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This project was developed through Unity and Maya."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/o9CQ6IO08LE?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group members include Antonia Deliyianni, Eli Cooper, and Amanda Wall.",
+					"image": ""
+				}
+			}
+		],
+		[
+			{
+				"title": "Creative Tool",
+				"image": "./static/img/creativetool.png",
+				"description": "Abstract Tool",
+				"tech": ["Java","Processing"],
+				"gitlink": "https://github.com/adeliyianni3/CreativeTool",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This project is a LMC 2700, procedural drawing program meant to have an alternative metaphor to drawing. My project’s metaphor is “Disrupting is Drawing,” and represents the destruction of a constructed space in an abstract form through colors and shapes."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "Written in Java through Processing."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/dY9NFFh3BGk?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "",
+					"image": ""
+				}
+			},
+			{
+				"title": "M.U.L.E",
+				"image": "./static/img/m-u-l-e.png",
+				"description": "Atari Game Remake",
+				"tech": ["Java"],
+				"gitlink": "https://github.com/adeliyianni3/MULEGame",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A remake of Atari’s M.U.L.E, this game is a four person semester long project in CS 2340: Objects and Design. The project emphasized methodology, notations, and standard principles of design. Broken down into thirteen weekly milestones following an Agile Development process, our project developed incrementally based on both implementation criteria and design criteria."
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "This project was completed using IntelliJ, JavaFX, and Github Version Control."
+							}
+						]
+					},
+					{
+						"header": "Project Development",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": ""
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/Fjcbhva-8p4?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group members include Antonia Deliyianni, Ethan Vargas, Lauren Liou, David Kim, and Aaron Parry.",
+					"image": ""
+				}
+			},
+			{
+				"title": "Collaborative Game",
+				"image": "./static/img/collab.png",
+				"description": "Collaborative Design Game",
+				"tech": ["Java", "Processing", "HTML"],
+				"gitlink": "https://github.com/adeliyianni3/Design-Game",
+				"livelink": "",
+				"section": [
+					{
+						"header": "Project Description",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "A group project in LMC 2700, Introduction to Computational Media. This project focused on the development of “game as design.”"
+							}
+						]
+					},
+					{
+						"header": "Project Tools",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": "Developed in Processing (Java)."
+							}
+						]
+					}
+				],
+				"demo": [
+					{
+						"header": "Demo",
+						"headerBody": [
+							{
+								"subheader": "",
+								"body": [
+									{
+										"subheader": "",
+										"link": "https://www.youtube.com/embed/2eowPQkTs5Y?rel=0"
+									}
+								]
+							}
+						]
+					}
+				],
+				"footer" : {
+					"citations": "Group Members: Antonia Deliyianni, Alexander Wilkins, Camille Atere-Roberts, Jordan Eggleston",
+					"image": ""
+				}
+			}
+		]
+	]
+}

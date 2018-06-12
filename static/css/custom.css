@@ -1,0 +1,86 @@
+.app {
+	font-family: 'BioRhyme';
+}
+.proj-body {
+	font-family: 'Cabin';
+}
+.card-title {
+  	color: #212121;
+}
+.container {
+  	width: 80%;
+}
+.card-image-background {
+	height: 20%;
+	overflow: hidden;
+}
+.custom-chip .chip{
+	padding: 0 10px;
+}
+.card-description {
+	color: #757575;
+}
+.side-nav .userView {
+	padding: 32px 32px 32px;
+}
+.popup {
+	position: absolute;
+	visibility: hidden;
+}
+.proj-card {
+	min-height: 404px;
+}
+.project-section {
+	padding-top: 20px;
+}
+.individual-proj {
+	margin-top: 20px;
+}
+.individual-proj .container {
+	width: 80%;
+}
+.individual-proj .para {
+	width: 100%;
+}
+.frame {
+	border: none;
+	overflow: hidden;
+}
+.overlay {
+  background-color: rgba(13, 13, 13, 0.9);
+  position: absolute;
+  min-width: 50%;
+}
+.proj-title {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.header {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.page-footer {
+	background-color: #212121 !important;
+}
+.contact-options {
+	padding-top: 12px;
+}
+.main-card {
+	min-height: 50px;
+}
+.proj-img {
+	max-width: 100%;
+}
+.indent {
+	margin-left: 5%;
+}
+.vid {
+	width: 100%;
+	height: 60%;
+}
+iframe {
+	padding-top: 5%;
+}
+.background {
+	background-color: #eeeeee;
+}
